@@ -1,2 +1,5 @@
 # AlgoritmaAnalizi
-Algoritma analizinde oluşturulan algoritmalar
+
+Algoritma analizi dersinde oluşturulan algoritmalar
+
+Algorithms created for algorithm analiysis lesson
